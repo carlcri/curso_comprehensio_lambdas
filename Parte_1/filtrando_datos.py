@@ -25,6 +25,7 @@ if __name__ == '__main__':
     print(worker_is_adult)
 
     # crear una nueva lista, cuyos diccionarios tengan cada uno una nueva llave
+    # para ejecutar las siguientes lineas de codigo, hacerlo en el base anaconda
     old_people = list(map(lambda worker:worker | {'old': worker['age'] > 70}, DATA))
     print(type(old_people))
 
