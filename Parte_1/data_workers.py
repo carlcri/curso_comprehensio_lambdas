@@ -69,4 +69,18 @@ DATA = [
         'position': 'Language Maker',
         'language': 'python',
     },
+    {
+        'name': 'Gerard',
+        'age': 18,
+        'organization': 'Microsoft',
+        'position': 'Language Maker',
+        'language': 'python',
+    },
+    {
+        'name': 'Evan',
+        'age': 65,
+        'organization': 'Platzi',
+        'position': 'Language Maker',
+        'language': 'python',
+    },
 ]
